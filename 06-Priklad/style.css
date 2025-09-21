@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+   }
+
+ .box {
+  border: 5px solid black;
+  width: 600px;
+  margin: 50px auto;
+  background-color: aqua;
+  padding: 30px;
+  box-sizing: border-box;
+}
+  
+.odstavec1 {
+  margin: 20px 0px 20px 0px;
+  } 
+
+.odstavec2 {
+  margin-top: 0px;
+    }
+
+h1 {
+  margin-top: 0px;
+}
+
+
+
+
+
+
+
+
+
+/* -------------------------------- */
+
+
